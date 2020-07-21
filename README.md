@@ -14,3 +14,8 @@ No entanto, você poderia estar se perguntando: Como então tantas pessoas são 
 A resposta para isso está no jeito que criamos senhas: Não fazemos senhas com caracteres aleatórios pois precisamos lembrar da senha para usá-la em algum lugar. Por exemplo, é bem mais fácil lembrar da senha iloveyou ou nicole123 do que 1ft3kr5t648ref5 ou qualquer outra senha desse tipo. Assim, os softwares de força bruta (tentar descobrir as senhas por tentativa e erro em massa) costumam usar wordlists como a rockyou.txt pois possuem senhas comuns, usadas por muitas pessoas por serem fáceis de serem lembradas ou conterem uma palavra existente em algum idioma.
 
 Pensando nisso, meu projeto de criptografia obscura busca mostrar um "novo" caminho de tornar as senhas cada vez mais seguras: A partir do fornecimento de uma palavra ou de uma senha comum usada por alguma pessoa, criptografar as senhas de uma forma que façam uma cadeia consideravelmente grande de caracteres "aleatórios" gerado a partir dessa palavra, usando diferentes métodos de criptografia para tal.
+
+## Pré-requisitos e recursos utilizados:
+
+A programação foi feita 100% em python, tudo que é necessário é ter uma versão do python 3, recomendo que seja a mais recente.
+A interface do programa foi construída dentro do código, com a importação de uma biblioteca já existente no python chamada Tkinter, os usos e implementações podem ser conferidos [aqui](http://effbot.org/tkinterbook/)
