@@ -9,7 +9,7 @@ O Projeto foi desenvolvido mais como uma introdução para mim mesmo ao mundo da
 
 Como pode ser visto, existem enormes possibilidades de senhas apenas com números e letras minúsculas, e caso fosse usado um número infinito de caracteres, quem sabe infinitas possibilidades existiriam?
 
-No entanto, você poderia estar se perguntando: Como então tantas pessoas são hackeadas em tantos sites que se dizem seguros?
+No entanto, você poderia estar se perguntando: Como então tantas pessoas são hackeadas em tantos sites que se dizem seguros, se existem tantas possibilidades de senha assim?
 
 A resposta para isso está no jeito que criamos senhas: Não fazemos senhas com caracteres aleatórios pois precisamos lembrar da senha para usá-la em algum lugar. Por exemplo, é bem mais fácil lembrar da senha iloveyou ou nicole123 do que 1ft3kr5t648ref5 ou qualquer outra senha desse tipo. Assim, os softwares de força bruta (tentar descobrir as senhas por tentativa e erro em massa) costumam usar wordlists como a rockyou.txt pois possuem senhas comuns, usadas por muitas pessoas por serem fáceis de serem lembradas ou conterem uma palavra existente em algum idioma.
 
