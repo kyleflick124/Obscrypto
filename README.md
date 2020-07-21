@@ -18,4 +18,6 @@ Pensando nisso, meu projeto de criptografia obscura busca mostrar um "novo" cami
 ## Pré-requisitos e recursos utilizados:
 
 A programação foi feita 100% em python, tudo que é necessário é ter uma versão do python 3, recomendo que seja a mais recente.
-A interface do programa foi construída dentro do código, com a importação de uma biblioteca já existente no python chamada Tkinter, os usos e implementações podem ser conferidos [aqui](http://effbot.org/tkinterbook/)
+A interface do programa foi construída dentro do código, com a importação de uma biblioteca já existente no python chamada Tkinter, os usos e implementações podem ser conferidos [aqui](http://effbot.org/tkinterbook/).
+
+No entanto, um dos vídeos que mais me ajudou a entender como funciona o Tkinter foi [esse](https://youtu.be/JrWHyqonGj8), disponível em inglês, feito por Robert Jomar Malate e pelo curso de Harvard CS50, que inclusive recomendo muito [o canal deles](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA) para quem quer aprender programação de maneira interativa, o conteúdo é todo em inglês mas a maioria das coisas possuem legenda em português
