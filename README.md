@@ -44,4 +44,4 @@ Isso abrirá automaticamente o programa, siga as instruções exibidas na interf
 
 ## Bugs/problemas conhecidos:
 
-Por enquanto não há nenhum bug visual ou de sintaxe no programa que eu tenha percebido, mas qualquer problema com o programa basta mandar uma mensagem por email ou pelo discord/whatsapp do [HackoonSpace](hackoonspace.com) caso faça parte.
+Por enquanto não há nenhum bug visual ou de sintaxe no programa que eu tenha percebido, mas qualquer problema com o programa basta mandar uma mensagem por email ou pelo discord/whatsapp do [HackoonSpace](https://hackoonspace.com) caso faça parte.
