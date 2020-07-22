@@ -36,5 +36,6 @@ Após instalar o python, usando o GitHub pelo seu browser, clique no botão verd
 
 ## Execução:
 
-Abrindo seu terminal de comando, mude o caminho até chegar na área de trabalho, depois para a pasta do arquivo, e digite Obscrypto.py, apertando Enter em seguida.
+Abrindo seu terminal de comando, mude o caminho até chegar na área de trabalho, depois para a pasta do arquivo, e digite Obscrypto.py, apertando Enter em seguida:
 
+![imagem](https://github.com/kyleflick124/Obscrypto/blob/master/caminho.png)
