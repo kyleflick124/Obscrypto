@@ -20,4 +20,21 @@ Pensando nisso, meu projeto de criptografia obscura busca mostrar um "novo" cami
 A programação foi feita 100% em python, tudo que é necessário é ter uma versão do python 3, recomendo que seja a mais recente.
 A interface do programa foi construída dentro do código, com a importação de uma biblioteca já existente no python chamada Tkinter, os usos e implementações podem ser conferidos [aqui](http://effbot.org/tkinterbook/).
 
-No entanto, um dos vídeos que mais me ajudou a entender como funciona o Tkinter foi [esse](https://youtu.be/JrWHyqonGj8), disponível em inglês, feito por Robert Jomar Malate e pelo curso de Harvard CS50, que inclusive recomendo muito [o canal deles](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA) para quem quer aprender programação de maneira interativa, o conteúdo é todo em inglês mas a maioria das coisas possuem legenda em português
+## Passo a passo:
+
+1.Estudei um pouco como funcionava a biblioteca do Tkinter e como eu poderia usar para deixar meu programa simples e agradável
+
+2.Estudei alguns tipos de criptografia que geram números não importando a senha inserida, para que qualquer senha possa ser usada mesmo levando em conta caracteres especiais, gerando como se fosse um padrão/base para não dar conflito com os diferentes tipos de criptografia.
+
+3.Implementei esses tipos em uma sequência que gerasse uma longa cadeia de caracteres bem encriptados, parecendo como "aleatórios"
+
+4.Depois, adaptei tudo para as funcionalidades do Tkinter, como um botão chamar uma função, exibir as caixas de texto, etc.
+
+## Instalação:
+
+Após instalar o python, usando o GitHub pelo seu browser, clique no botão verde "Code" e em "Download ZIP". Após a conclusão do download, extraia a pasta para a sua área de trabalho.
+
+## Execução:
+
+Abrindo seu terminal de comando, mude o caminho até chegar na área de trabalho, depois para a pasta do arquivo, e digite Obscrypto.py, apertando Enter em seguida.
+
