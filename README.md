@@ -45,3 +45,14 @@ Isso abrirá automaticamente o programa, siga as instruções exibidas na interf
 ## Bugs/problemas conhecidos:
 
 Por enquanto não há nenhum bug visual ou de sintaxe no programa que eu tenha percebido, mas qualquer problema com o programa basta mandar uma mensagem por email ou pelo discord/whatsapp do [HackoonSpace](https://hackoonspace.com) caso faça parte.
+
+## Autores:
+* Fernando Favareto Abromovick ([kyleflick124](https://github.com/kyleflick124))
+
+## Demais anotações e referências:
+
+Um dos vídeos que mais me ajudou a entender como funciona o Tkinter foi [esse](https://youtu.be/JrWHyqonGj8), disponível em inglês, feito por Robert Jomar Malate e pelo curso de Harvard CS50, que inclusive recomendo muito [o canal deles](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA) para quem quer aprender programação de maneira interativa, o conteúdo é todo em inglês mas a maioria das coisas possuem legenda em português.
+
+## Imagens e Screenshots do programa:
+
+
