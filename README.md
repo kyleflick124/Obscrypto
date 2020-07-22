@@ -41,3 +41,7 @@ Abrindo seu terminal de comando, mude o caminho até chegar na área de trabalho
 ![imagem](https://github.com/kyleflick124/Obscrypto/blob/master/caminho.png)
 
 Isso abrirá automaticamente o programa, siga as instruções exibidas na interface dele para usá-lo.
+
+## Bugs/problemas conhecidos:
+
+Por enquanto não há nenhum bug visual ou de sintaxe no programa que eu tenha percebido, mas qualquer problema com o programa basta mandar uma mensagem por email ou pelo discord/whatsapp do [HackoonSpace](hackoonspace.com) caso faça parte.
