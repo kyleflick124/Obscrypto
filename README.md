@@ -51,8 +51,19 @@ Por enquanto não há nenhum bug visual ou de sintaxe no programa que eu tenha p
 
 ## Demais anotações e referências:
 
-Um dos vídeos que mais me ajudou a entender como funciona o Tkinter foi [esse](https://youtu.be/JrWHyqonGj8), disponível em inglês, feito por Robert Jomar Malate e pelo curso de Harvard CS50, que inclusive recomendo muito [o canal deles](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA) para quem quer aprender programação de maneira interativa, o conteúdo é todo em inglês mas a maioria das coisas possuem legenda em português.
+* Uma boa parte do programa está comentado, o que ajuda as pessoas a entenderem como cada parte funciona sem precisar de explicação.
+
+* Os métodos de criptografia usados para converter a senha foram, nesta ordem, ascii, octal e base64.
+
+* Um dos vídeos que mais me ajudou a entender como funciona o Tkinter foi [esse](https://youtu.be/JrWHyqonGj8), disponível em inglês, feito por Robert Jomar Malate e pelo curso de Harvard CS50, que inclusive recomendo muito [o canal deles](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA) para quem quer aprender programação de maneira interativa, o conteúdo é todo em inglês mas a maioria das coisas possuem legenda em português.
 
 ## Imagens e Screenshots do programa:
 
+Menu Principal:
+
+![imagem](https://github.com/kyleflick124/Obscrypto/blob/master/menuprincipal.png)
+
+Programa rodando:
+
+![imagem](https://github.com/kyleflick124/Obscrypto/blob/master/programa.png)
 
