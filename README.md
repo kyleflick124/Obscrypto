@@ -36,7 +36,11 @@ Após instalar o python, usando o GitHub pelo seu browser, clique no botão verd
 
 ## Execução:
 
-Abrindo seu terminal de comando, mude o caminho até chegar na área de trabalho, depois para a pasta do arquivo, e digite Obscrypto.py, apertando Enter em seguida:
+Existem 2 modos mais fáceis de executar o programa:
+
+1. O jeito mais fácil é clicando duplamente no programa Obscrypto.py, na pasta dos arquivos. Normalmente, o programa deveria ser executado do segundo modo, mas uma propriedade do Tkinter faz o programa continuar rodando até que seja fechado, então o primeiro modo também é válido.
+
+2. Abrindo seu terminal de comando, mude o caminho até chegar na área de trabalho, depois para a pasta do arquivo, e digite Obscrypto.py, apertando Enter em seguida:
 
 ![imagem](https://github.com/kyleflick124/Obscrypto/blob/master/caminho.png)
 
